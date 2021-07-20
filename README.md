@@ -1,12 +1,10 @@
 # Introduction to CSS
 
 - [What is CSS](https://github.com/napatwongchr/intro-to-html/blob/main/lessons/what-is-css.md)
-- [Selector and Properties](https://github.com/napatwongchr/intro-to-html/blob/main/lessons/selectors-and-properties.md)
-- [Cascading and Specificity](https://github.com/napatwongchr/intro-to-html/blob/main/lessons/cascading-and-specificity.md)
-- [CSS Layout](https://github.com/napatwongchr/intro-to-html/blob/main/lessons/html-5.md)
-- [Display Properties](https://github.com/napatwongchr/intro-to-html/blob/main/lessons/how-to-use-tags.md)
-- [Box Model](https://github.com/napatwongchr/intro-to-html/blob/main/lessons/meta-tags.md)
-- [Flexbox](https://github.com/napatwongchr/intro-to-html/blob/main/lessons/chrome-dev-tools.md)
+- [Selector and Properties](https://github.com/napatwongchr/intro-to-css/blob/main/lessons/selectors-and-properties.md)
+- [Cascading and Specificity](https://github.com/napatwongchr/intro-to-css/blob/main/lessons/cascading-and-specificity.md)
+- [CSS Layout](https://github.com/napatwongchr/intro-to-css/blob/main/lessons/css-layout.md)
+- [Flexbox](https://github.com/napatwongchr/intro-to-html/blob/main/lessons/flexbox.md)
 - [Position](https://github.com/napatwongchr/intro-to-html/blob/main/lessons/chrome-dev-tools.md)
 - [CSS Practices](https://github.com/napatwongchr/intro-to-html/blob/main/lessons/chrome-dev-tools.md)
 - [Units](https://github.com/napatwongchr/intro-to-html/blob/main/lessons/chrome-dev-tools.md)

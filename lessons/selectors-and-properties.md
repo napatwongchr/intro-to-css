@@ -91,7 +91,7 @@ Pseudo-class คือ CSS ที่กำหนดขึ้นมาเพื�
 
 ## In Class Exercises - 01 🏅
 
-ให้ทำหน้า Web App ให้เหมือนในภาพนี้
+ให้ทำ Web App ให้เหมือนในภาพนี้
 
 ![Ex01 Inclass User Interface](./../exercises/images/ex01-inclass.png)
 
@@ -100,5 +100,3 @@ Pseudo-class คือ CSS ที่กำหนดขึ้นมาเพื�
 - ลอง select html elements ด้วย id class tags attributes และ data attributes ตามที่เรียนมา
 
 [Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/ex01-inclass-answer.html)
-
-## Take Home Exercises - 01 🏅
